@@ -25,6 +25,6 @@ To foster a robust and distributed storage network by financially motivating pro
 - Tiered incentive models based on reliability and uptime
 - User-friendly dashboard for providers to monitor stats
 
-## Contract details
+  ## Contract details
 0x418FFA73B62b08293b8367c576d278Dc0f713531
 ![alt text](image.png)
