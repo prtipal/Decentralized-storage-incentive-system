@@ -16,10 +16,12 @@ To foster a robust and distributed storage network by financially motivating pro
 - Claimable rewards paid out in Ether
 - Owner can update reward rates dynamically
 - Transparent tracking of storage and earnings
+  
+
 
 ## Future Scope
 
-- Integration with decentralized file storage networks like IPFS or Filecoin
+1- Integration with decentralized file storage networks like IPFS or Filecoin
 - Support for ERC20 token-based rewards
 - Automated verification of storage proofs
 - Tiered incentive models based on reliability and uptime
