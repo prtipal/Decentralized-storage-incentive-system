@@ -9,7 +9,7 @@ A blockchain-based platform that incentivizes users to provide decentralized sto
 
 To foster a robust and distributed storage network by financially motivating providers, increasing data availability and decentralization while empowering participants through transparent smart contracts.
  
-## Key Features
+  ## Key Features
 
 - Providers register their available storage in GB
 - Rewards calculated based on storage size and duration
