@@ -21,7 +21,7 @@ To foster a robust and distributed storage network by financially motivating pro
 
     ## Future Scope
 
-1- Integration with decentralized file storage networks like IPFS or Filecoin
+  1- Integration with decentralized file storage networks like IPFS or Filecoin
 - Support for ERC20 token-based rewards
 - Automated verification of storage proofs
 - Tiered incentive models based on reliability and uptime
