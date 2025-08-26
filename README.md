@@ -7,7 +7,7 @@ A blockchain-based platform that incentivizes users to provide decentralized sto
 
 ## Project Vision
 
-To foster a robust and distributed storage network by financially motivating providers, increasing data availability and decentralization while empowering participants through transparent smart contracts.
+   To foster a robust and distributed storage network by financially motivating providers, increasing data availability and decentralization while empowering participants through transparent smart contracts.
  
   ## Key Features
 
