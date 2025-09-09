@@ -3,8 +3,7 @@
 
 ## Project Description
 
-A blockchain-based platform that incentivizes users to provide decentralized storage resources by rewarding them with cryptocurrency based on the amount of storage offered and time duration.
-
+A blockchain-based platform that incentivizes users to provide decentralized storage resources by rewarding them with cryptocurrency based on the amount of storage offered and time duration
 ## Project Vision
 
    To foster a robust and distributed storage network by financially motivating providers, increasing data availability and decentralization while empowering participants through transparent smart contracts.
