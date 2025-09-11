@@ -1,6 +1,4 @@
   # Decentralized storage incentive system
-
-
 ## Project Description
 
 A blockchain-based platform that incentivizes users to provide decentralized storage resources by rewarding them with cryptocurrency based on the amount of storage offered and time duration
